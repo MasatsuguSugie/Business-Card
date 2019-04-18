@@ -1,0 +1,26 @@
+package businessCard;
+
+/**
+ * My business card.
+ * 
+ * @author sugie
+ * @version 25 Dec 2018
+ */
+public class BusinessCard
+{
+    /**
+     * This prints out my business card information.
+     * 
+     * @param args
+     */
+    public static void main(String[] args)
+    {
+        String name = "Masatsugu John Sugie";
+        String mobile = "070-2667-6746";
+        String email = "mjohnsugie@yahoo.com";
+        String bio = "I am a business IT professional";
+        System.out.println(name + "\n" + mobile + "\n" + email + "\n" + bio);
+
+    }
+
+}
