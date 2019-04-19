@@ -16,7 +16,7 @@ public class BusinessCard
     public static void main(String[] args)
     {
         String name = "Masatsugu John Sugie";
-        String mobile = "070-2667-6746";
+        String mobile = "XXX-XXXX-XXXX";
         String email = "mjohnsugie@yahoo.com";
         String bio = "I am a business IT professional";
         System.out.println(name + "\n" + mobile + "\n" + email + "\n" + bio);
